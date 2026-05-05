@@ -1,3 +1,10 @@
 {
-"connectmsg":"🤍*┌──────────────────────────────┐*\n🎈 *SHAN-MD  |  CONNECTION PANEL*\n🤍 *└──────────────────────────────┘*\n\n🆕 *New Update Coming Soon...* 🚀\n\n📡 *Successfully Connected to WhatsApp!*\n\n  *Welcome to SHAN MD!* 👻💗\n_Your WhatsApp user bot is now securely connected and active._\n\n⏱️ *Uptime:* ${uptimeDisplay}\n\n✅ *Features Enabled:*\n• Send & receive messages\n• Powerful automation\n• Secure and stable session\n\n💚 *Thank you for using SHAN MD!* 💚",
+  "connectmg": "🤍*╭───────────────────────┈",
+  "cmsglogo": "https://files.catbox.moe/lo...",
+  "footer" : "*·⟬𑗊𑗊𑗊𑗊-𑗊𑗊⟭·*",
+  "chlink": "",
+  "reponame": "https://github.com/SHAN-MD...",
+  "mainchanal": "",
+  "supglink": "",
+  "connectmsg_sent": "94743373134@s.whats..."
 }
